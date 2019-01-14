@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\bin\Debug\netcoreapp2.1\PokemonGame.API.deps.json
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\bin\Debug\netcoreapp2.1\PokemonGame.API.runtimeconfig.json
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\bin\Debug\netcoreapp2.1\PokemonGame.API.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\bin\Debug\netcoreapp2.1\PokemonGame.API.dll
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.RazorAssemblyInfo.cache
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.RazorAssemblyInfo.cs
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\PokemonGame\PokemonGame.API\obj\Debug\netcoreapp2.1\PokemonGame.API.RazorTargetAssemblyInfo.cache
