@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {},
+    "C:\\Users\\rivel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\PokemonGame\\PokemonGame.API\\PokemonGame.API.csproj",
+      "projectUniqueName": "C:\\Users\\rivel\\Documents\\GitHub\\PokemonGame\\PokemonGame.API\\PokemonGame.API.csproj",
       "projectName": "PokemonGame.API",
-      "projectPath": "C:\\Users\\Kevin\\source\\repos\\PokemonGame\\PokemonGame.API\\PokemonGame.API.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\source\\repos\\PokemonGame\\PokemonGame.API\\obj\\",
+      "projectPath": "C:\\Users\\rivel\\Documents\\GitHub\\PokemonGame\\PokemonGame.API\\PokemonGame.API.csproj",
+      "packagesPath": "C:\\Users\\rivel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rivel\\Documents\\GitHub\\PokemonGame\\PokemonGame.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rivel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
